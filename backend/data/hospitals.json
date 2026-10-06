@@ -1,0 +1,72 @@
+[
+  {
+    "id": "hosp_01",
+    "_id": "hosp_01",
+    "createdAt": "2026-10-05T15:42:07.873Z",
+    "updatedAt": "2026-10-05T15:42:07.873Z",
+    "userId": "user_hosp_01",
+    "name": "City Central Health Hospital",
+    "email": "contact@citycentralhealth.org",
+    "phone": "+1 (555) 234-5678",
+    "address": "742 Evergreen Terrace, Sector 4",
+    "city": "New York",
+    "verificationStatus": "verified",
+    "contactPerson": "Dr. Sarah Jenkins"
+  },
+  {
+    "id": "hosp_02",
+    "_id": "hosp_02",
+    "createdAt": "2026-10-05T15:42:07.876Z",
+    "updatedAt": "2026-10-05T15:42:07.876Z",
+    "userId": "user_hosp_02",
+    "name": "St. Jude Children Medical Center",
+    "email": "emergency@stjude-med.org",
+    "phone": "+1 (555) 345-6789",
+    "address": "1088 Ocean Drive, Downtown",
+    "city": "Boston",
+    "verificationStatus": "verified",
+    "contactPerson": "Dr. Michael Chang"
+  },
+  {
+    "id": "hosp_03",
+    "_id": "hosp_03",
+    "createdAt": "2026-10-05T15:42:07.878Z",
+    "updatedAt": "2026-10-05T15:42:07.878Z",
+    "userId": "user_hosp_03",
+    "name": "Metro General Healthcare System",
+    "email": "bloodbank@metrogeneral.org",
+    "phone": "+1 (555) 456-7890",
+    "address": "450 University Boulevard",
+    "city": "Chicago",
+    "verificationStatus": "verified",
+    "contactPerson": "Dr. Rachel Adams"
+  },
+  {
+    "id": "hosp_04",
+    "_id": "hosp_04",
+    "createdAt": "2026-10-05T15:42:07.881Z",
+    "updatedAt": "2026-10-05T15:42:07.881Z",
+    "userId": "user_hosp_04",
+    "name": "University Academic Medical Center",
+    "email": "coordination@uamc-health.org",
+    "phone": "+1 (555) 567-8901",
+    "address": "1200 Science & Health Parkway",
+    "city": "San Francisco",
+    "verificationStatus": "verified",
+    "contactPerson": "Dr. Marcus Vance"
+  },
+  {
+    "id": "hosp_05",
+    "_id": "hosp_05",
+    "createdAt": "2026-10-05T15:42:07.885Z",
+    "updatedAt": "2026-10-05T15:42:07.885Z",
+    "userId": "user_hosp_05",
+    "name": "Mercy Memorial Community Hospital",
+    "email": "transfusion@mercymemorial.org",
+    "phone": "+1 (555) 678-9012",
+    "address": "89 Mission Street, West End",
+    "city": "Seattle",
+    "verificationStatus": "verified",
+    "contactPerson": "Dr. Elena Rostova"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "id_1791214927902_cs1ahi",
+    "_id": "id_1791214927902_db300q",
+    "createdAt": "2026-10-05T15:42:07.902Z",
+    "updatedAt": "2026-10-05T15:42:07.902Z",
+    "userId": "user_donor_1",
+    "type": "Emergency Request",
+    "title": "CRITICAL: O- Blood Needed Immediately",
+    "description": "City Central Health Hospital requires 3 units of O- blood for emergency trauma surgery.",
+    "isRead": false,
+    "link": "/donor/requests"
+  },
+  {
+    "id": "id_1791214927902_drjhtj",
+    "_id": "id_1791214927902_yrk6tv",
+    "createdAt": "2026-10-05T15:42:07.902Z",
+    "updatedAt": "2026-10-05T15:42:07.902Z",
+    "userId": "user_donor_1",
+    "type": "Donation Reminder",
+    "title": "You are eligible to donate!",
+    "description": "Your last donation was over 56 days ago. Consider scheduling your next donation today.",
+    "isRead": true,
+    "link": "/donor/availability"
+  },
+  {
+    "id": "id_1791214927903_op0uoq",
+    "_id": "id_1791214927903_ko2rd4",
+    "createdAt": "2026-10-05T15:42:07.903Z",
+    "updatedAt": "2026-10-05T15:42:07.903Z",
+    "userId": "user_patient_1",
+    "type": "Request Accepted",
+    "title": "Donor Found for A+ Blood Request",
+    "description": "Sophia Chen has accepted your request at City Central Health Hospital.",
+    "isRead": false,
+    "link": "/patient/track-request"
+  },
+  {
+    "id": "id_1791214927903_w95bhf",
+    "_id": "id_1791214927903_cobrmr",
+    "createdAt": "2026-10-05T15:42:07.903Z",
+    "updatedAt": "2026-10-05T15:42:07.903Z",
+    "userId": "global",
+    "type": "System Update",
+    "title": "BloodLink Platform Updated",
+    "description": "Enhanced smart donor matching is now active across all connected hospitals.",
+    "isRead": false,
+    "link": "/"
+  },
+  {
+    "id": "id_1791217523318_4rh6dt",
+    "_id": "id_1791217523318_blds4o",
+    "createdAt": "2026-10-05T16:25:23.318Z",
+    "updatedAt": "2026-10-05T16:25:23.318Z",
+    "userId": "user_patient_1",
+    "type": "Request Accepted",
+    "title": "Donor Matched for O- Request!",
+    "description": "Ravi Kumar has accepted your request for 3 unit(s) of O- blood at City Central Health Hospital.",
+    "isRead": false,
+    "link": "/patient/track-request"
+  },
+  {
+    "id": "id_1791217683107_o4ia2r",
+    "_id": "id_1791217683107_f3tfig",
+    "createdAt": "2026-10-05T16:28:03.107Z",
+    "updatedAt": "2026-10-05T16:28:03.107Z",
+    "userId": "user_patient_6",
+    "type": "Request Accepted",
+    "title": "Donor Matched for B- Request!",
+    "description": "Ravi Kumar has accepted your request for 2 unit(s) of B- blood at City Central Health Hospital.",
+    "isRead": false,
+    "link": "/patient/track-request"
+  },
+  {
+    "id": "id_1791217921903_u7675a",
+    "_id": "id_1791217921903_rxikwo",
+    "createdAt": "2026-10-05T16:32:01.903Z",
+    "updatedAt": "2026-10-05T16:32:01.903Z",
+    "userId": "user_donor_8",
+    "type": "Emergency Request",
+    "title": "URGENT Request: O- Blood Needed",
+    "description": "New urgent request for 11 units of O- at City Central Health Hospital, New York.",
+    "isRead": false,
+    "link": "/donor/requests"
+  },
+  {
+    "id": "id_1791222707841_f0aydj",
+    "_id": "id_1791222707841_cn42hm",
+    "createdAt": "2026-10-05T17:51:47.841Z",
+    "updatedAt": "2026-10-05T17:51:47.841Z",
+    "userId": "user_patient_4",
+    "type": "Request Accepted",
+    "title": "Donor Matched for O+ Request!",
+    "description": "Ravi Kumar has accepted your request for 2 unit(s) of O+ blood at University Academic Medical Center.",
+    "isRead": false,
+    "link": "/patient/track-request"
+  }
+]
